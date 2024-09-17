@@ -1,4 +1,4 @@
-# [Story Name Here](url)
+# [Story Name Here]
 Published: [date here]
 Updated: [date here]
 ### [short story description here]
