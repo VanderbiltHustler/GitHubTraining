@@ -4,13 +4,10 @@ Updated: [date here]
 ### [short story description here]
 
 ## Directory 
-(edit as needed)
-- [folder]
-  - [subfolder]
-- [folder]
-  - [subfolder]
-- [folder]
-  - [subfolder]
+(edit as needed, use tree command in terminal to generate)
+```bash
+
+```
  
 ## Deployment History
 - [date]: [info here]
