@@ -6,7 +6,7 @@ Updated: [date here]
 ## Directory 
 (edit as needed, use tree command in terminal to generate)
 ```bash
-
+tree -I 'node_modules|.git' --dirsfirst | pbcopy
 ```
  
 ## Deployment History
