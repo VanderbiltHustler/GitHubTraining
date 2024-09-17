@@ -4,7 +4,11 @@ Updated: [date here]
 ### [short story description here]
 
 ## Directory 
-(edit as needed, use tree command in terminal to generate)
+install tree (mac example shown)
+```bash
+brew install tree
+```
+use tree command in terminal to generate
 ```bash
 tree -I 'node_modules|.git' --dirsfirst | pbcopy
 ```
