@@ -11,7 +11,10 @@ Updated: [date here]
   - [subfolder]
 - [folder]
   - [subfolder]
-  
+ 
+## Deployment History
+- [date]: [information]
+
 ## Credits
 - Project Director | [Name], [Name]
 - Data Analysis | [Name], [Name]
