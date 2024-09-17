@@ -1,6 +1,7 @@
-# [Story Name Here]
-Published: [date here]
-Updated: [date here]
+# [Tool Name Here]
+Status: [date here] <br>
+Published: [date here] <br>
+Updated: [date here] <br>
 ### [short story description here]
 
 ## How this tool works
