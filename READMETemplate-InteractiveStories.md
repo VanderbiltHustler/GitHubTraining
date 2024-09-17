@@ -13,7 +13,7 @@ Updated: [date here]
   - [subfolder]
  
 ## Deployment History
-- [date]: [information]
+- [date]: [info here]
 
 ## Credits
 - Project Director | [Name], [Name]
